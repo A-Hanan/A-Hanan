@@ -49,5 +49,5 @@ I am a **Senior Software Engineer with 5+ years of experience**, specializing in
 I thrive when solving architectural bottlenecks and building systems that need to scale. 
 
 * 🌐 **Portfolio:** [abdulhanan.services](https://abdulhanan.services)
-* 💼 **LinkedIn:** [linkedin.com/in/abdul-hanan](https://linkedin.com/in/abdul-hanan)
+* 💼 **LinkedIn:** [linkedin.com/in/abdul-hanan-03038b20b](https://linkedin.com/in/abdul-hanan-03038b20b)
 * 📧 **Email:** [a.hanan.official@gmail.com](mailto:a.hanan.official@gmail.com)
