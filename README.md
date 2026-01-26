@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Hanan 🚀
+# Hi, I'm Abdul Hanan 
 ### Senior Full-Stack Engineer | SaaS & AI Agent Architect
 
 <p align="left">
