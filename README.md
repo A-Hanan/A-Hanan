@@ -1,44 +1,53 @@
-Software Engineer | B2B SaaS & AI Agent Architect 🚀
-Architecting Investor-Ready Systems & Agentic Workflows
-I am a Senior Software Engineer with 5+ years of experience, specializing in the Next.js and Nest.js ecosystems. Since late 2023, I have operated as a core engineer for multiple stealth startups, moving complex products from conceptual drafts to production-grade platforms.
+# Software Engineer | Full-Stack SaaS & AI Agent Architect 🚀
 
-I don’t just write code—I architect systems that prioritize data integrity, multi-tenant isolation, and autonomous AI reasoning.
+### Architecting High-Performance Systems & Intelligent Workflows
 
-🧪 Technical Focus & Specialization
-Agentic AI Orchestration: Building stateful, tool-using agents with Mastra, LangGraph, and the Vercel AI SDK. Specialized in high-efficiency RAG pipelines for complex data environments.
+I am a **Senior Software Engineer with 5+ years of experience**, specializing in building production-grade SaaS and autonomous AI systems. Since late 2023, I have operated as a core engineer for multiple stealth startups, moving products from conceptual drafts to investor-ready platforms.
 
-B2B SaaS Infrastructure: Implementing robust "hard logic"—Row Level Security (RLS), usage-based billing, and feature gating via Schematic.
+I specialize in the **"hard logic"** of modern web apps: distributed data systems, high-performance content orchestration, and agentic reasoning.
 
-Production Excellence: Bleeding-edge implementation of Next.js 16 and React 19 (Server Components, Actions, and optimized Streaming).
+---
 
-🛠️ The Tech Stack
-Category	Technologies
-Frontend	Next.js 16 (App Router), React 19, Tailwind CSS, Framer Motion
-Backend	NestJS, Node.js, Inngest (Durable Workflows), Bun
-Data & Auth	PostgreSQL (Supabase/Neon), Convex, Redis, Clerk
-AI & Agents	Mastra, LangGraph, OpenAI, ElevenLabs, Vercel AI SDK
-🏗️ Current Shipments
-🚀 Draxt AI: A 24/7 AI drafting engine for creators. Built on a parallelized processing pipeline that generates full production assets (scripts, SEO, thumbnails) in < 60 seconds.
+### 🧪 Technical Focus & Specialization
 
-🏢 Onplo: Architecting the frontend (Next.js) for a revolutionary "all-in-one" business platform, focusing on secure account and payment infrastructure.
+* **Agentic AI & LLM Orchestration:** Designing stateful, tool-using agents and RAG pipelines using **LangGraph, LangChain, and the Vercel AI SDK**.
+* **Multi-Framework Expertise:** Expert in both **React/Next.js** and **Vue/Nuxt.js** ecosystems, choosing the right stack for scalability and developer velocity.
+* **Content & Data Architecture:** High-performance content delivery using **Sanity.io and GROQ** for complex, structured data environments.
+* **Database Design:** Architecting resilient data layers across Relational (**Postgres**) and NoSQL (**MongoDB, DynamoDB**) environments.
 
-🔒 Stealth Startup (NDA): Developing a RAG-powered financial analysis tool with strict data isolation and automated calculation engines.
+---
 
-📊 GitHub Stats
-🤝 Let's Collaborate
-I am at my best when solving high-stakes architectural hurdles or performance bottlenecks. If you are building a startup and need a technical partner to help you cross the finish line:
+### 🛠️ The Tech Stack
 
-Portfolio: abdulhanan.services
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | Next.js 16, React 19, Nuxt.js 3, Vue 3, Tailwind CSS |
+| **AI & Agents** | LangGraph, LangChain, Vercel AI SDK, Mastra, OpenAI |
+| **Content / CMS** | Sanity.io, GROQ, Headless Commerce |
+| **Backend / DB** | NestJS, PostgreSQL, MongoDB, DynamoDB, Inngest |
+| **Infrastructure** | AWS, Vercel, Docker, Supabase, Convex |
 
-LinkedIn: linkedin.com/in/abdul-hanan
+---
 
-Email: a.hanan.official@gmail.com
+### 🏗️ Current Shipments
 
-How to make this pop on your profile:
-Use a Transparent Theme: I've set the badges and stats to theme=transparent so they blend into GitHub’s Dark/Light modes.
+* 🚀 **Draxt AI:** A 24/7 AI drafting engine. Built on a parallelized processing pipeline that generates full production assets (scripts, SEO, thumbnails) in < 60 seconds.
+* 🏢 **Onplo:** Architecting the frontend (Next.js) for a comprehensive business infrastructure platform, focusing on secure account and payment systems.
+* 🔒 **Stealth Startup (NDA):** Developing a RAG-powered financial analysis tool with strict data isolation and automated calculation engines.
 
-Hyper-Focus on "Agent Architect": By grouping Mastra, LangGraph, and Inngest together, you look like a specialized expert, not a generalist.
+---
 
-The "Draxt" Mention: It proves you are an active builder of your own products, which founders love.
+### 📊 GitHub Activity
 
-Would you like me to help you create a specific "Featured Repositories" list that highlights the technical complexity of Draxt or your RAG implementations?
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Hanan&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hanan&layout=compact&theme=transparent)
+
+---
+
+### 🤝 Let's Collaborate
+
+I thrive when solving architectural bottlenecks and building systems that need to scale. If you are building an MVP or a complex platform and need an engineer who takes ownership:
+
+* 🌐 **Portfolio:** [abdulhanan.services](https://abdulhanan.services)
+* 💼 **LinkedIn:** [linkedin.com/in/abdul-hanan](https://linkedin.com/in/abdul-hanan)
+* 📧 **Email:** [a.hanan.official@gmail.com](mailto:a.hanan.official@gmail.com)
