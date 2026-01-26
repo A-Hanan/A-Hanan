@@ -1,31 +1,28 @@
-# Software Engineer | Full-Stack SaaS & AI Agent Architect 🚀
+# Hi, I'm Abdul Hanan 🚀
+### Senior Full-Stack Engineer | SaaS & AI Agent Architect
 
-### Architecting High-Performance Systems & Intelligent Workflows
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&width=435&lines=Senior+Full-Stack+Developer;AI+Agent+Architect+(LangGraph);Next.js+%2B+Nuxt.js+Expert;Building+the+Future+at+Draxt.ai" alt="Typing SVG" />
+</p>
 
 I am a **Senior Software Engineer with 5+ years of experience**, specializing in building production-grade SaaS and autonomous AI systems. Since late 2023, I have operated as a core engineer for multiple stealth startups, moving products from conceptual drafts to investor-ready platforms.
 
-I specialize in the **"hard logic"** of modern web apps: distributed data systems, high-performance content orchestration, and agentic reasoning.
-
 ---
 
-### 🧪 Technical Focus & Specialization
+### 🛠️ Technical Arsenal
 
-* **Agentic AI & LLM Orchestration:** Designing stateful, tool-using agents and RAG pipelines using **LangGraph, LangChain, and the Vercel AI SDK**.
-* **Multi-Framework Expertise:** Expert in both **React/Next.js** and **Vue/Nuxt.js** ecosystems, choosing the right stack for scalability and developer velocity.
-* **Content & Data Architecture:** High-performance content delivery using **Sanity.io and GROQ** for complex, structured data environments.
-* **Database Design:** Architecting resilient data layers across Relational (**Postgres**) and NoSQL (**MongoDB, DynamoDB**) environments.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,tailwind,nodejs,nest,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,aws,vercel,docker,supabase,linux" />
+  </a>
+</p>
 
----
-
-### 🛠️ The Tech Stack
-
-| Category | Technologies |
+| Specialization | Technologies |
 | :--- | :--- |
-| **Frameworks** | Next.js 16, React 19, Nuxt.js 3, Vue 3, Tailwind CSS |
 | **AI & Agents** | LangGraph, LangChain, Vercel AI SDK, Mastra, OpenAI |
 | **Content / CMS** | Sanity.io, GROQ, Headless Commerce |
-| **Backend / DB** | NestJS, PostgreSQL, MongoDB, DynamoDB, Inngest |
-| **Infrastructure** | AWS, Vercel, Docker, Supabase, Convex |
+| **Backend** | Distributed Systems, Inngest, Convex, Clerk |
 
 ---
 
@@ -37,16 +34,19 @@ I specialize in the **"hard logic"** of modern web apps: distributed data system
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Proficiency & Ecosystems
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Hanan&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hanan&layout=compact&theme=transparent)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hanan&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="Top Langs" height="165px" />
+</p>
+
+> **Note:** Most of my recent work (2023-2026) is housed in private organizational repositories for startups and corporate clients.
 
 ---
 
 ### 🤝 Let's Collaborate
 
-I thrive when solving architectural bottlenecks and building systems that need to scale. If you are building an MVP or a complex platform and need an engineer who takes ownership:
+I thrive when solving architectural bottlenecks and building systems that need to scale. 
 
 * 🌐 **Portfolio:** [abdulhanan.services](https://abdulhanan.services)
 * 💼 **LinkedIn:** [linkedin.com/in/abdul-hanan](https://linkedin.com/in/abdul-hanan)
