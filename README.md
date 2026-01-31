@@ -27,10 +27,10 @@ I am a **Senior Software Engineer with 5+ years of experience**, specializing in
 ---
 
 ### 🏗️ Current Shipments
-
+* 🔒 **Stealth Startup (NDA):** Engineering a comprehensive document ecosystem for B2B and B2C markets, resolving complex sharing and management bottlenecks through a custom editor and AI-integrated workflows. This infrastructure supports end-to-end document lifecycles, including automated financial data extraction, high-volume batch generation, secure distribution systems, and an advanced search architecture for streamlined data retrieval.
 * 🚀 **Draxt AI:** A 24/7 AI drafting engine. Built on a parallelized processing pipeline that generates full production assets (scripts, SEO, thumbnails) in < 60 seconds.
 * 🏢 **Onplo:** Architecting the frontend (Next.js) for a comprehensive business infrastructure platform, focusing on secure account and payment systems.
-* 🔒 **Stealth Startup (NDA):** Developing a RAG-powered financial analysis tool with strict data isolation and automated calculation engines.
+
 
 ---
 
